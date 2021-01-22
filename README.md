@@ -41,7 +41,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;&nbsp;&nbsp;
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)<br/><br/>
 - 🖥 &nbsp;&nbsp;
-  ![Lightroom](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-lightroom)&nbsp;&nbsp;&nbsp;
+  ![Lightroom](https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom)&nbsp;&nbsp;&nbsp;
   ![Premiere Pro](https://img.shields.io/badge/-Adobe%20Premier%20Pro-333333?style=flat&logo=adobe-premiere-pro)<br/><br/>
 
 <br/>
