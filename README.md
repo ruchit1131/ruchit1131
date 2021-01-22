@@ -5,6 +5,7 @@
 - 🎓 &nbsp; Computer Science undergraduate from Indian Institute of Information Technology, Sonepat.
 - 💼 &nbsp; Seeking Software Engineer job opportunities.
 - 🌱 &nbsp; Learned Data Structures and Algorithms, Machine Learning(with a pinch of IoT), and Full Stack Web Development.
+- 🔭 &nbsp; Latest project: <a href="https://movies-bucket.herokuapp.com/">**Movies' Bucket**</a>. Add your to-watch movies, search movies, watch trailers, and add to favourites.
 - ✍️ &nbsp; Hobbies are songwriting, rapping. I wish to learn to play the Bass, or any one musical instrument.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
