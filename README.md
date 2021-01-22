@@ -58,6 +58,6 @@
 <p align="center">
 <a href="http://.linkedin.com/in/ruchit-karnawat-509a0b139"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ruchit%20Karnawat%20-blue?style=flat-square&logo=linkedin"></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:ruchitkarnawat1999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ruchitkaranwat1999@gmail.com-blue?style=flat-square&logo=gmail"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/karnawat_ruchit"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-karanwat_ruchit-blue?style=flat-square&logo=gmail"></a>
+<a href="https://twitter.com/karnawat_ruchit"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-karanwat_ruchit-blue?style=flat-square&logo=twitter"></a>
 </p>
 
