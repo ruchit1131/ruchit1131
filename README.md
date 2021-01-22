@@ -1,20 +1,20 @@
-<h2> I'm Ruchit. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+<h2> Hello, I'm Ruchit. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Computer Science undergraduate from Indian Institute of Information Technology, Sonepat.
-- 💼 &nbsp; Seeking a software engineer job.
-- 🌱 &nbsp; Leared Data Structures and Algorithms, Machine Learning(with a pinch of IoT), and Full Stack Web Development.
-- ✍️ &nbsp; Hobbies are songwriting, rapping. Wish to learn to play the Bass, or any one musical instrument.
+- 💼 &nbsp; Seeking Software Engineer job opportunities.
+- 🌱 &nbsp; Learned Data Structures and Algorithms, Machine Learning(with a pinch of IoT), and Full Stack Web Development.
+- ✍️ &nbsp; Hobbies are songwriting, rapping. I wish to learn to play the Bass, or any one musical instrument.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;&nbsp;<br/>
-  ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-  ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+  ![C](https://img.shields.io/badge/--333333?style=flat&logo=C)
+  ![C++](https://img.shields.io/badge/--333333?style=flat&logo=C++)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![PHP](https://img.shields.io/badge/--333333?style=flat&logo=PHP)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
