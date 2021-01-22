@@ -5,8 +5,7 @@
 - 💼 &nbsp; Seeking Software Engineer job opportunities.<br/><br/>
 - 🌱 &nbsp; Learned Data Structures and Algorithms, Machine Learning(with a pinch of IoT), and Full Stack Web Development.<br/><br/>
 - 🔭 &nbsp; Latest project: <a href="https://movies-bucket.herokuapp.com/">**Movies' Bucket**</a>. Add your to-watch movies, search movies and get all information about the movies, watch trailers, and add to favourites. Also check the <a href="https://five-minute-resume.herokuapp.com/">**Five Minute Resume**</a> App. You can choose from 11 different styles!.<br/><br/>
-- :books: I want to learn ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) &nbsp;&nbsp; ![Material -UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)&nbsp;&nbsp;![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;&nbsp;![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)&nbsp;&nbsp;
-![Tensorflow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)<br/><br/>
+- :books: I want to learn ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) &nbsp;&nbsp; ![Material -UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui) &nbsp;&nbsp; ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) &nbsp;&nbsp; ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass) &nbsp;&nbsp; ![Tensorflow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)<br/><br/>
 - ✍️ &nbsp; Hobbies are songwriting, rapping. I wish to learn to play the Bass, or any one musical instrument.<br/><br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3><br/>
