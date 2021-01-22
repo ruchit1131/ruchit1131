@@ -5,7 +5,9 @@
 - 🎓 &nbsp; Computer Science undergraduate from Indian Institute of Information Technology, Sonepat.
 - 💼 &nbsp; Seeking Software Engineer job opportunities.
 - 🌱 &nbsp; Learned Data Structures and Algorithms, Machine Learning(with a pinch of IoT), and Full Stack Web Development.
-- 🔭 &nbsp; Latest project: <a href="https://movies-bucket.herokuapp.com/">**Movies' Bucket**</a>. Add your to-watch movies, search movies, watch trailers, and add to favourites.
+- 🔭 &nbsp; Latest project: <a href="https://movies-bucket.herokuapp.com/">**Movies' Bucket**</a>. Add your to-watch movies, search movies and get all information about the movies, watch trailers, and add to favourites.
+- 🔭 &nbsp; Also check the <a href="https://five-minute-resume.herokuapp.com/">**Five Minute Resume**</a> App. You can choose from 11 different styles!.
+- :books: I want to learn <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> &nbsp;&nbsp; <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>&nbsp;&nbsp;<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>&nbsp;&nbsp;<img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> 
 - ✍️ &nbsp; Hobbies are songwriting, rapping. I wish to learn to play the Bass, or any one musical instrument.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
