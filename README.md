@@ -11,7 +11,7 @@
 
 - 💻 &nbsp;&nbsp;<br/>
   ![C](https://img.shields.io/badge/--333333?style=flat&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
@@ -22,6 +22,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
