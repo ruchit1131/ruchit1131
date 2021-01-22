@@ -1,6 +1,6 @@
  **Hello, I'm Ruchit.** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3><br/>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🎓 &nbsp; Computer Science undergraduate from Indian Institute of Information Technology, Sonepat.<br/><br/>
 - 💼 &nbsp; Seeking Software Engineer job opportunities.<br/><br/>
 - 🌱 &nbsp; Learned Data Structures and Algorithms, Machine Learning(with a pinch of IoT), and Full Stack Web Development.<br/><br/>
@@ -9,7 +9,7 @@
 ![Tensorflow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)<br/><br/>
 - ✍️ &nbsp; Hobbies are songwriting, rapping. I wish to learn to play the Bass, or any one musical instrument.<br/><br/>
 
-<h3> 🛠 &nbsp;Tech Stack</h3><br/><br/>
+<h3> 🛠 &nbsp;Tech Stack</h3><br/>
 
 - 💻 &nbsp;&nbsp;
   ![C](https://img.shields.io/badge/--333333?style=flat&logo=C)&nbsp;&nbsp;&nbsp;
