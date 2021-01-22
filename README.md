@@ -35,9 +35,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)<br/><br/>
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 - 🖥 &nbsp;
   ![Lightroom](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-lightroom)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Premiere Pro](https://img.shields.io/badge/-Adobe%20Premier%20Pro-333333?style=flat&logo=adobe-premiere-pro)
 
 <br/>
 
