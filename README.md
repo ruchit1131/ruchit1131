@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Computer Science undergraduate from NIT Kurukshetra(IIIT, Sonepat).<br/><br/>
 - 💼 &nbsp; Seeking Software Engineer job opportunities.<br/><br/>
-- 🌱 &nbsp; Learned Data Structures and Algorithms, Machine Learning(with a pinch of IoT), and Full Stack Web Development.<br/><br/>
+- 🌱 &nbsp; Learned Data Structures and Algorithms, Full Stack Web Development, and Machine Learning(with a pinch of IoT)<br/><br/>
 - 🔭 &nbsp; Latest project:&nbsp; <a href="https://movies-bucket.herokuapp.com/">**Movies' Bucket**</a>. Add movies you want to watch to your Bucket List, search movies and get all information about the movies, watch trailers, and add to favourites. Also check the <a href="https://five-minute-resume.herokuapp.com/">**Five Minute Resume**</a> App. You can choose from 11 different styles!.<br/><br/>
 - :books: Wish to learn&nbsp;&nbsp; ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) &nbsp;&nbsp; ![Material -UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)&nbsp;&nbsp;![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;&nbsp;![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)&nbsp;&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)<br/><br/>
